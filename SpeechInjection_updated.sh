@@ -1,5 +1,10 @@
 #!/bin/bash
-# run with sudo ./SpeechInjection_plus.sh <TX> <RX> <both> 
+#Written by Daniel Bressman
+
+#sudo ./SpeechInjection_plus.sh <TX> <RX> <both> 
+#Todo:
+#automate gestures using serial commands
+
 adb root
 adb remount
 
