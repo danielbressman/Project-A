@@ -1,1 +1,1 @@
-# Scripts updated 11/14/21
+# Automation for Android devices.
